@@ -6,7 +6,7 @@
 
 This project contains the Jupyter Notebooks and supporting files for _Advanced Web Scraping_ with Max Humber. 
 
-These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
+These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/9781492081012).
 
 The exercises can be found in `/notebooks`.
 
