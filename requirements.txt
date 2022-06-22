@@ -4,7 +4,7 @@ chardet==3.0.4
 gazpacho==0.9.4
 idna==2.9
 lxml==4.5.0
-numpy==1.18.1
+numpy==1.22.0
 pandas==1.0.1
 Pillow==7.0.0
 pytesseract==0.3.2
