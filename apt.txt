@@ -1,3 +1,0 @@
-firefox
-tesseract-ocr
-libtesseract-dev
