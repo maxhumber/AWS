@@ -28,7 +28,7 @@ joblib==1.1.0
 jsonschema==4.5.1
 jupyter-client==7.3.1
 jupyter-core==4.10.0
-lxml==4.9.0
+lxml==4.9.1
 marc==22.5.0
 MarkupSafe==2.1.1
 matplotlib-inline==0.1.3
