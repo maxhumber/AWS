@@ -5,7 +5,7 @@ attrs==21.4.0
 backcall==0.2.0
 black==22.3.0
 brotlipy==0.7.0
-certifi==2021.10.8
+certifi==2022.12.7
 cffi @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/croot-jgj0vmyy/cffi_1642701117808/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.1.3
